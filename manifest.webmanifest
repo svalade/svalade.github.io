@@ -1,0 +1,18 @@
+{
+  "name": "Sébastien Valade",
+  "short_name": "Sébastien Valade",
+  "lang": "en-us",
+  "theme_color": "#284f7a",
+  "background_color": "#284f7a",
+  "icons": [{
+    "src": "/media/icon_hu20638cc9a7598fcc1ab12c58f0e22468_2537_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu20638cc9a7598fcc1ab12c58f0e22468_2537_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

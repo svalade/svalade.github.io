@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Sébastien Valade</title>
+    <link>https://example.com/publication-type/7/</link>
+      <atom:link href="https://example.com/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu20638cc9a7598fcc1ab12c58f0e22468_2537_512x512_fill_lanczos_center_3.png</url>
+      <title>7</title>
+      <link>https://example.com/publication-type/7/</link>
+    </image>
+    
+    <item>
+      <title>Source mechanisms and dynamics of volcanic pyroclastic emissions: a perspective from Doppler radar (VOLDORAD) and other geophysical data</title>
+      <link>https://example.com/publication/phd-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/phd-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude des panaches de cendres du Popocatépetl (Mexique) par radar Doppler: premiers enseignements sur la surveillance à long terme de volcans explosifs avec le VOLDORAD</title>
+      <link>https://example.com/publication/msc-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/msc-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude pétro-stratigraphique et tectonique du flanc nord de la Valle del Bove, Etna (Sicile, Italie)</title>
+      <link>https://example.com/publication/bsc-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bsc-2006/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Sébastien Valade</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu20638cc9a7598fcc1ab12c58f0e22468_2537_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Automatic retrieval of volcanic SO2 emission source from TROPOMI products</title>
+      <link>https://example.com/publication/markus-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/markus-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sangay volcano (Ecuador): the opening of two new vents,  a drumbeat seismic sequence and a new lava flow in late 2021</title>
+      <link>https://example.com/publication/hidalgo-2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/hidalgo-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNES-ESA satellite contribution to the operational monitoring of volcanic activity: The 2021 Icelandic eruption of Mt. Fagradalsfjall</title>
+      <link>https://example.com/publication/gouhier-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gouhier-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of Popocatépetl&#39;s activity by regional and worldwide earthquakes</title>
+      <link>https://example.com/publication/boulesteix-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/boulesteix-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific response to the 2021 eruption of Nyiragongo based on the implementation of a participatory monitoring system</title>
+      <link>https://example.com/publication/boudoire-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/boudoire-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking ground-based data and satellite monitoring to understand the last two decades of eruptive activity at Sangay volcano, Ecuador</title>
+      <link>https://example.com/publication/vasconez-2022/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/vasconez-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shallow magma convection evidenced by excess degassing and thermal radiation during the dome-forming Sabancaya eruption (2012–2020)</title>
+      <link>https://example.com/publication/coppola-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/coppola-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magma pressure discharge induces very long period seismicity</title>
+      <link>https://example.com/publication/ripepe-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ripepe-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismic Source Migration During Strombolian Eruptions Inferred by Very-Near-Field Broadband Seismic Network</title>
+      <link>https://example.com/publication/sugimura-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/sugimura-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unconventional filling dynamics of a pit crater</title>
+      <link>https://example.com/publication/burgi-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/burgi-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ash sedimentation by fingering and sediment thermals from wind-affected volcanic plumes</title>
+      <link>https://example.com/publication/freret-lorgeril-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/freret-lorgeril-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reference-Free Despeckling of Synthetic-Aperture Radar Images Using a Deep Convolutional Network</title>
+      <link>https://example.com/publication/davis-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/davis-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uptake of gaseous thallium, tellurium, vanadium and molybdenum into anhydrous alum, Lascar volcano fumaroles, Chile</title>
+      <link>https://example.com/publication/saintlot-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/saintlot-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volcanic Hot-Spot Detection Using SENTINEL-2: A Comparison with MODIS–MIROVA Thermal Data Series</title>
+      <link>https://example.com/publication/massimetti-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/massimetti-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex hazard cascade culminating in the Anak Krakatau sector collapse</title>
+      <link>https://example.com/publication/walter-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/walter-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OSARIS, the “Open Source SAR Investigation System” for Automatized Parallel InSAR Processing of Sentinel-1 Time Series Data With Special Emphasis on Cryosphere Applications</title>
+      <link>https://example.com/publication/loibl-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/loibl-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Global Volcano Monitoring Using Multisensor Sentinel Missions and Artificial Intelligence: The MOUNTS Monitoring System</title>
+      <link>https://example.com/publication/valade-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/valade-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics of Mount Nyiragongo lava lake inferred from thermal imaging and infrasound array</title>
+      <link>https://example.com/publication/valade-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/valade-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting GAN-Based SAR to Optical Image Transcoding for Improved Classification via Deep Learning</title>
+      <link>https://example.com/publication/ley-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ley-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrasonic Early Warning System for Explosive Eruptions</title>
+      <link>https://example.com/publication/ripepe-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ripepe-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting Effusive Dynamics and Decompression Rates by Magmastatic Model at Open-vent Volcanoes</title>
+      <link>https://example.com/publication/ripepe-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ripepe-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mass discharge rate retrieval combining weather radar and thermal camera observations</title>
+      <link>https://example.com/publication/vulpiani-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/vulpiani-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MeMoVolc report on classification and dynamics of volcanic explosive eruptions</title>
+      <link>https://example.com/publication/bonadonna-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bonadonna-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Near-source Doppler radar monitoring of tephra plumes at Etna</title>
+      <link>https://example.com/publication/donnadieu-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/donnadieu-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking dynamics of magma migration in open-conduit systems</title>
+      <link>https://example.com/publication/valade-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/valade-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>https://example.com/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gas and aerosol emissions from Lascar volcano (Northern Chile): Insights into the origin of gases and their links with the volcanic activity</title>
+      <link>https://example.com/publication/menard-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/menard-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plume Ascent Tracker: Interactive Matlab software for analysis of ascending plumes in image data</title>
+      <link>https://example.com/publication/valade-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/valade-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volcanic plume vent conditions retrieved from infrared images: A forward and inverse modeling approach</title>
+      <link>https://example.com/publication/cerminara-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/cerminara-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern multispectral sensors help track explosive eruptions</title>
+      <link>https://example.com/publication/harris-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/harris-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explosion mechanisms at Arenal volcano, Costa Rica: An interpretation from integration of seismic and Doppler radar data</title>
+      <link>https://example.com/publication/valade-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/valade-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lava discharge during Etna&#39;s January 2011 fire fountain tracked using MSG-SEVIRI</title>
+      <link>https://example.com/publication/gouhier-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/gouhier-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ballistics and ash plumes discriminated by Doppler radar</title>
+      <link>https://example.com/publication/valade-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/valade-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three dimensional transport speed of wind-drifted ash plumes using ground-based radar</title>
+      <link>https://example.com/publication/donnadieu-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/donnadieu-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

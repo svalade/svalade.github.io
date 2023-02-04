@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Sébastien Valade</title>
+    <link>https://example.com/publication-type/4/</link>
+      <atom:link href="https://example.com/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu20638cc9a7598fcc1ab12c58f0e22468_2537_512x512_fill_lanczos_center_3.png</url>
+      <title>4</title>
+      <link>https://example.com/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Joint Seismic, Acoustic and Doppler Radar observations at Arenal Volcano, Costa Rica: preliminary results</title>
+      <link>https://example.com/publication/mora-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mora-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
