@@ -126,10 +126,6 @@
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/mounts-a-sentinel-powered-volcano-monitoring-system/</loc>
-    <lastmod>2020-11-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/talk/deteccion-de-procesos-eruptivos-a-escala-mundial-mediante-observaciones-satelitales-multiparametricas-y-inteligencia-artificial/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -240,6 +236,10 @@
   </url><url>
     <loc>https://example.com/publication/valade-2019/</loc>
     <lastmod>2023-02-03T15:38:04-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/mounts-a-sentinel-powered-volcano-monitoring-system/</loc>
+    <lastmod>2018-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/global-volcano-geodesy-with-the-sentinels/</loc>

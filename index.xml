@@ -197,14 +197,6 @@
     </item>
     
     <item>
-      <title>MOUNTS: a Sentinel-powered volcano monitoring system</title>
-      <link>https://example.com/talk/mounts-a-sentinel-powered-volcano-monitoring-system/</link>
-      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/mounts-a-sentinel-powered-volcano-monitoring-system/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Detección de procesos eruptivos a escala mundial mediante observaciones satelitales multiparamétricas y inteligencia artificial</title>
       <link>https://example.com/talk/deteccion-de-procesos-eruptivos-a-escala-mundial-mediante-observaciones-satelitales-multiparametricas-y-inteligencia-artificial/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
@@ -388,7 +380,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-254673198&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-632548179&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -398,7 +390,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-254673198&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-632548179&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -905,6 +897,14 @@ $$&lt;/p&gt;
       <link>https://example.com/publication/valade-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/valade-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOUNTS: a Sentinel-powered volcano monitoring system</title>
+      <link>https://example.com/talk/mounts-a-sentinel-powered-volcano-monitoring-system/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/mounts-a-sentinel-powered-volcano-monitoring-system/</guid>
       <description></description>
     </item>
     
