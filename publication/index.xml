@@ -125,20 +125,6 @@
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Complex hazard cascade culminating in the Anak Krakatau sector collapse</title>
       <link>https://example.com/publication/walter-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -227,25 +213,6 @@
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Gas and aerosol emissions from Lascar volcano (Northern Chile): Insights into the origin of gases and their links with the volcanic activity</title>
       <link>https://example.com/publication/menard-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
@@ -267,25 +234,6 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/cerminara-2014/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -313,14 +261,6 @@
     </item>
     
     <item>
-      <title>Source mechanisms and dynamics of volcanic pyroclastic emissions: a perspective from Doppler radar (VOLDORAD) and other geophysical data</title>
-      <link>https://example.com/publication/phd-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/phd-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ballistics and ash plumes discriminated by Doppler radar</title>
       <link>https://example.com/publication/valade-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
@@ -341,22 +281,6 @@
       <link>https://example.com/publication/mora-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/mora-2009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Etude des panaches de cendres du Popocatépetl (Mexique) par radar Doppler: premiers enseignements sur la surveillance à long terme de volcans explosifs avec le VOLDORAD</title>
-      <link>https://example.com/publication/msc-2008/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/msc-2008/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Etude pétro-stratigraphique et tectonique du flanc nord de la Valle del Bove, Etna (Sicile, Italie)</title>
-      <link>https://example.com/publication/bsc-2006/</link>
-      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bsc-2006/</guid>
       <description></description>
     </item>
     

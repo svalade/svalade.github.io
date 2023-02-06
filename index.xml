@@ -380,7 +380,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-632548179&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-931528764&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -390,7 +390,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-632548179&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-931528764&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -667,20 +667,6 @@ Crash --&gt; [*]
 
   &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; R&lt;/p&gt;
 &lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -1010,25 +996,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Internal dynamics and eruptive behaviour of Stromboli volcano: insights from the 2014 eruption</title>
       <link>https://example.com/talk/internal-dynamics-and-eruptive-behaviour-of-stromboli-volcano-insights-from-the-2014-eruption/</link>
       <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
@@ -1093,25 +1060,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Modern multispectral sensors help track explosive eruptions</title>
       <link>https://example.com/publication/harris-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -1140,14 +1088,6 @@ $$&lt;/p&gt;
       <link>https://example.com/publication/gouhier-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/gouhier-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source mechanisms and dynamics of volcanic pyroclastic emissions: a perspective from Doppler radar (VOLDORAD) and other geophysical data</title>
-      <link>https://example.com/publication/phd-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/phd-2012/</guid>
       <description></description>
     </item>
     
@@ -1220,22 +1160,6 @@ $$&lt;/p&gt;
       <link>https://example.com/talk/ground-based-doppler-radar-monitoring-of-ash-plumes-at-popocatepetl-volcano/</link>
       <pubDate>Mon, 18 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://example.com/talk/ground-based-doppler-radar-monitoring-of-ash-plumes-at-popocatepetl-volcano/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Etude des panaches de cendres du Popocatépetl (Mexique) par radar Doppler: premiers enseignements sur la surveillance à long terme de volcans explosifs avec le VOLDORAD</title>
-      <link>https://example.com/publication/msc-2008/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/msc-2008/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Etude pétro-stratigraphique et tectonique du flanc nord de la Valle del Bove, Etna (Sicile, Italie)</title>
-      <link>https://example.com/publication/bsc-2006/</link>
-      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bsc-2006/</guid>
       <description></description>
     </item>
     

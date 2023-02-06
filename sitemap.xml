@@ -198,18 +198,6 @@
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -422,10 +410,6 @@
     <lastmod>2023-02-03T15:38:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/talk/internal-dynamics-and-eruptive-behaviour-of-stromboli-volcano-insights-from-the-2014-eruption/</loc>
     <lastmod>2015-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -522,24 +506,12 @@
     <lastmod>2013-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/publication/harris-2013/</loc>
     <lastmod>2023-02-03T15:38:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/full-bandwidth-remote-sensing-for-total-geophysical-parameterization-of-volcanic-emissions-at-stromboli/</loc>
     <lastmod>2012-10-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication-type/7/</loc>
-    <lastmod>2023-02-03T15:38:08-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/discharge-rate/</loc>
@@ -568,10 +540,6 @@
   </url><url>
     <loc>https://example.com/tag/msg-seviri/</loc>
     <lastmod>2023-02-03T15:38:07-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/phd-2012/</loc>
-    <lastmod>2023-02-03T15:38:08-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/discriminating-ash-plume-and-ballistics-using-ground-based-doppler-radar-constraints-on-eruptive-parameters-from-inverse-modeling/</loc>
@@ -612,14 +580,6 @@
   </url><url>
     <loc>https://example.com/talk/ground-based-doppler-radar-monitoring-of-ash-plumes-at-popocatepetl-volcano/</loc>
     <lastmod>2008-08-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/msc-2008/</loc>
-    <lastmod>2023-02-03T15:38:08-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/publication/bsc-2006/</loc>
-    <lastmod>2023-02-03T15:38:08-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/admin/</loc>
