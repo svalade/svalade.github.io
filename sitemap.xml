@@ -46,15 +46,23 @@
     <lastmod>2023-02-03T15:38:02-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://example.com/talk/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/volcanic-hazard-monitoring-from-space-using-mounts/</loc>
+    <loc>https://example.com/talk/2021-09_sgi_trieste/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/satellite-monitoring-assisted-by-deep-learning-a-tool-to-help-anticipate-eruptions/</loc>
+    <loc>https://example.com/lectures/cv4gs/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/lectures/</loc>
+    <lastmod>2021-06-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/2021-02_ldeo_usa/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,27 +130,27 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/deteccion-y-vigilancia-de-domos-de-lava-desde-el-espacio-mediante-el-sistema-mounts/</loc>
+    <loc>https://example.com/talk/2020-11_igp_peru/</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/deteccion-de-procesos-eruptivos-a-escala-mundial-mediante-observaciones-satelitales-multiparametricas-y-inteligencia-artificial/</loc>
+    <loc>https://example.com/talk/2020-09_seminar_unam/</loc>
     <lastmod>2020-09-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/gestion-del-riesgo-de-desastre-y-nuevas-herramientas-para-la-vulcanologia/</loc>
+    <loc>https://example.com/talk/2020-09_webinar_chile/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/deteccion-y-alerta-automatica-de-emisiones-de-so2-mediante-tropomi-sentinel-5p-estado-actual-y-evolucion-futura-del-sistema-de-vigilancia-mounts-monitoring-unrest-from-space/</loc>
+    <loc>https://example.com/talk/2020-09_webinar_ecuador/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/monitoreo-volcanico-por-satelites-con-el-sistema-mounts/</loc>
+    <loc>https://example.com/talk/2020-06_webinar_guatemala/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/discusion-sobre-las-funcionalidades-y-potencialidades-del-sistema-de-informacion-web-del-proyecto-mounts/</loc>
+    <loc>https://example.com/talk/2020-06_webinar_colombia/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -190,7 +198,7 @@
     <lastmod>2023-02-03T15:38:03-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/surveillance-multi-parametrique-des-volcans-a-laide-des-satellites-sentinel-et-de-lintelligence-artificielle/</loc>
+    <loc>https://example.com/talk/2019-12_seminar_lmv/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -210,7 +218,7 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/nonlocal-filtering-of-polarimetric-sar-images-applied-to-change-detection-for-volcano-monitoring/</loc>
+    <loc>https://example.com/talk/2019-01_esa_frascati/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -226,11 +234,11 @@
     <lastmod>2023-02-03T15:38:04-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/mounts-a-sentinel-powered-volcano-monitoring-system/</loc>
+    <loc>https://example.com/talk/2018-09_cov_italy/</loc>
     <lastmod>2018-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/global-volcano-geodesy-with-the-sentinels/</loc>
+    <loc>https://example.com/talk/2018-06_seminar_gfz/</loc>
     <lastmod>2018-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -306,7 +314,7 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/infrasound-of-basaltic-effusive-activity-at-piton-de-la-fournaise-volcano/</loc>
+    <loc>https://example.com/talk/2016-04_egu_vienna/</loc>
     <lastmod>2016-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -410,11 +418,11 @@
     <lastmod>2023-02-03T15:38:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/internal-dynamics-and-eruptive-behaviour-of-stromboli-volcano-insights-from-the-2014-eruption/</loc>
+    <loc>https://example.com/talk/2015-04_egu_vienna/</loc>
     <lastmod>2015-04-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/evolution-of-eruption-dynamics-during-ash-rich-lava-fountaining-episodes-revealed-by-infrasonic-monitoring/</loc>
+    <loc>https://example.com/talk/2014-09_cov_indonesia/</loc>
     <lastmod>2014-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -494,15 +502,15 @@
     <lastmod>2023-02-03T15:38:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/ground-based-imaging-of-volcanic-plumes-for-mass-flux/</loc>
+    <loc>https://example.com/talk/2013-11_iugg_geneva/</loc>
     <lastmod>2013-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/full-bandwidth-remote-sensing-for-total-parameterization-of-volcanic-plumes/</loc>
+    <loc>https://example.com/talk/2013-07_iavcei_japan_talk/</loc>
     <lastmod>2013-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/reconstruction-of-volcanic-plume-properties-through-integration-of-infrared-imagery-and-analytical-one-dimensional-models/</loc>
+    <loc>https://example.com/talk/2013-07_iavcei_japan_poster/</loc>
     <lastmod>2013-07-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -510,7 +518,7 @@
     <lastmod>2023-02-03T15:38:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/full-bandwidth-remote-sensing-for-total-geophysical-parameterization-of-volcanic-emissions-at-stromboli/</loc>
+    <loc>https://example.com/talk/2012-10_cnfgg_clermont/</loc>
     <lastmod>2012-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -542,7 +550,7 @@
     <lastmod>2023-02-03T15:38:07-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/discriminating-ash-plume-and-ballistics-using-ground-based-doppler-radar-constraints-on-eruptive-parameters-from-inverse-modeling/</loc>
+    <loc>https://example.com/talk/2011-10_lgs_london/</loc>
     <lastmod>2011-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -554,15 +562,15 @@
     <lastmod>2023-02-03T15:38:07-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/linking-conduit-and-surface-activity-at-arenal-volcano-using-broadband-seismometers-and-doppler-radar-do-we-need-a-new-conduit-model/</loc>
+    <loc>https://example.com/talk/2010-12_agu_sanfrancisco/</loc>
     <lastmod>2010-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/cross-correlations-of-doppler-radar-and-seismic-records-insights-into-the-explosive-source-mechanisms-at-arenal-volcano-costa-rica/</loc>
+    <loc>https://example.com/talk/2009-10_iavcei_clermont/</loc>
     <lastmod>2009-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/from-conduit-to-surface-dynamics-at-arenal-costa-rica-insights-from-doppler-radar-and-broadband-seismic-data/</loc>
+    <loc>https://example.com/talk/2009-10_esc_besse/</loc>
     <lastmod>2009-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -574,11 +582,11 @@
     <lastmod>2023-02-03T15:38:08-06:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/multi-method-approach-for-the-remote-monitoring-of-arenal-volcano-costa-rica/</loc>
+    <loc>https://example.com/talk/2008-09_esc_nicaragua/</loc>
     <lastmod>2008-09-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/ground-based-doppler-radar-monitoring-of-ash-plumes-at-popocatepetl-volcano/</loc>
+    <loc>https://example.com/talk/2008-08_esc_iceland/</loc>
     <lastmod>2008-08-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

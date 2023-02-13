@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Sébastien Valade</title>
+    <link>https://example.com/talk/</link>
+      <atom:link href="https://example.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu72552e133ade4a041f8b7a65e584ae9e_4965_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://example.com/talk/</link>
+    </image>
+    
+    <item>
+      <title>Volcanic hazard monitoring from space using MOUNTS</title>
+      <link>https://example.com/talk/2021-09_sgi_trieste/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2021-09_sgi_trieste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Satellite monitoring assisted by Deep Learning: a tool to help anticipate eruptions?</title>
+      <link>https://example.com/talk/2021-02_ldeo_usa/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2021-02_ldeo_usa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detección y vigilancia de domos de lava desde el espacio mediante el sistema MOUNTS</title>
+      <link>https://example.com/talk/2020-11_igp_peru/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2020-11_igp_peru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detección de procesos eruptivos a escala mundial mediante observaciones satelitales multiparamétricas y inteligencia artificial</title>
+      <link>https://example.com/talk/2020-09_seminar_unam/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2020-09_seminar_unam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gestión del riesgo de desastre y nuevas herramientas para la vulcanología</title>
+      <link>https://example.com/talk/2020-09_webinar_chile/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2020-09_webinar_chile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detección y alerta automática de emisiones de SO2 mediante TROPOMI (Sentinel-5P): Estado actual y evolución futura del sistema de vigilancia MOUNTS (Monitoring Unrest From Space)</title>
+      <link>https://example.com/talk/2020-09_webinar_ecuador/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2020-09_webinar_ecuador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoreo volcánico por satélites con el sistema MOUNTS</title>
+      <link>https://example.com/talk/2020-06_webinar_guatemala/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2020-06_webinar_guatemala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discusión sobre las Funcionalidades y Potencialidades del Sistema de Información Web del Proyecto MOUNTS</title>
+      <link>https://example.com/talk/2020-06_webinar_colombia/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2020-06_webinar_colombia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surveillance multi-paramétrique des volcans à l’aide des satellites Sentinel et de l’intelligence artificielle</title>
+      <link>https://example.com/talk/2019-12_seminar_lmv/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2019-12_seminar_lmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlocal filtering of polarimetric SAR images applied to change detection for volcano monitoring</title>
+      <link>https://example.com/talk/2019-01_esa_frascati/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2019-01_esa_frascati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOUNTS: a Sentinel-powered volcano monitoring system</title>
+      <link>https://example.com/talk/2018-09_cov_italy/</link>
+      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2018-09_cov_italy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global volcano geodesy with the Sentinels</title>
+      <link>https://example.com/talk/2018-06_seminar_gfz/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2018-06_seminar_gfz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrasound of basaltic effusive activity at Piton de la Fournaise Volcano</title>
+      <link>https://example.com/talk/2016-04_egu_vienna/</link>
+      <pubDate>Tue, 12 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2016-04_egu_vienna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal dynamics and eruptive behaviour of Stromboli volcano: insights from the 2014 eruption</title>
+      <link>https://example.com/talk/2015-04_egu_vienna/</link>
+      <pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2015-04_egu_vienna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of eruption dynamics during ash-rich lava fountaining episodes revealed by infrasonic monitoring</title>
+      <link>https://example.com/talk/2014-09_cov_indonesia/</link>
+      <pubDate>Tue, 09 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2014-09_cov_indonesia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ground-based imaging of volcanic plumes for mass flux</title>
+      <link>https://example.com/talk/2013-11_iugg_geneva/</link>
+      <pubDate>Mon, 18 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2013-11_iugg_geneva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full bandwidth remote sensing for total parameterization of volcanic plumes</title>
+      <link>https://example.com/talk/2013-07_iavcei_japan_talk/</link>
+      <pubDate>Sat, 20 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2013-07_iavcei_japan_talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconstruction of Volcanic Plume Properties Through Integration of Infrared Imagery and Analytical One-dimensional Models</title>
+      <link>https://example.com/talk/2013-07_iavcei_japan_poster/</link>
+      <pubDate>Sat, 20 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2013-07_iavcei_japan_poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full bandwidth remote sensing for total geophysical parameterization of volcanic emissions at Stromboli</title>
+      <link>https://example.com/talk/2012-10_cnfgg_clermont/</link>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2012-10_cnfgg_clermont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminating ash plume and ballistics using ground-based Doppler radar: constraints on eruptive parameters from inverse modeling</title>
+      <link>https://example.com/talk/2011-10_lgs_london/</link>
+      <pubDate>Tue, 04 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2011-10_lgs_london/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking conduit and surface activity at Arenal volcano using broadband seismometers and Doppler radar: do we need a new conduit model?</title>
+      <link>https://example.com/talk/2010-12_agu_sanfrancisco/</link>
+      <pubDate>Mon, 13 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2010-12_agu_sanfrancisco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-correlations of Doppler radar and seismic records: insights into the explosive source mechanisms at Arenal volcano, Costa Rica</title>
+      <link>https://example.com/talk/2009-10_iavcei_clermont/</link>
+      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2009-10_iavcei_clermont/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From conduit to surface dynamics at Arenal (Costa Rica): insights from Doppler radar and broadband seismic data</title>
+      <link>https://example.com/talk/2009-10_esc_besse/</link>
+      <pubDate>Mon, 26 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2009-10_esc_besse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi Method Approach for the Remote Monitoring of Arenal Volcano (Costa Rica)</title>
+      <link>https://example.com/talk/2008-09_esc_nicaragua/</link>
+      <pubDate>Sun, 21 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2008-09_esc_nicaragua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ground-based Doppler radar monitoring of ash plumes at Popocatépetl volcano</title>
+      <link>https://example.com/talk/2008-08_esc_iceland/</link>
+      <pubDate>Mon, 18 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2008-08_esc_iceland/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
