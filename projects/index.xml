@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Sébastien Valade</title>
+    <link>https://example.com/projects/</link>
+      <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu72552e133ade4a041f8b7a65e584ae9e_4965_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/projects/</link>
+    </image>
+    
+    <item>
+      <title>Classification and formation processes of lava lakes</title>
+      <link>https://example.com/projects/2023-papiit-campion/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2023-papiit-campion/</guid>
+      <description>&lt;p&gt;Funding: DGAPA PAPIIT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linking space and ground-based observations for better understanding and prediction of eruptive crises</title>
+      <link>https://example.com/projects/2020-papiit/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2020-papiit/</guid>
+      <description>&lt;!-- Internal page content (disabled in compact-project.html) --&gt;
+&lt;p&gt;&lt;strong&gt;Funding source: DGAPA PAPIIT&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- Project written to bring together two techniques still underused despite their very high potential, useful to recover key parameters which can reflect changes inside the volcanic system.
+1) Changes in the crater morphology of active volcanoes can reflect changing internal conditions of the underlying magmatic system. These processes, characterized by alternating construction and destruction inside the crater, can be detected from space using SAR intensity images, and can sometimes be precursors to paroxysmal activity.
+2) Changes in the degassing activity of a volcano can reflect variations in the accumulation/release of pressure in the shallow volcanic system, which often foresee variations in the volcanic activity. These processes can be recorded with arrays of infrasonic sensors deployed nearby the volcano, and quantified/localized using well established algorithms using multichannel semblance.
+
+The unique combination of these two techniques and recovery/analysis of these parameters will improve our ability to understand and forecast eruptions. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>MOUNTS-AI: artificial intelligence for volcano monitoring</title>
+      <link>https://example.com/projects/2019-mounts-ai/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2019-mounts-ai/</guid>
+      <description>&lt;!-- Internal page content (disabled in compact-project.html) --&gt;
+&lt;p&gt;&lt;strong&gt;Fundings: GEO-X Seed Funding&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MOUNTS: Monitoring Unrest from Space</title>
+      <link>https://example.com/projects/2017-mounts/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2017-mounts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MODAPLUMES: Models and Data for Plumes</title>
+      <link>https://example.com/projects/2012-modaplumes/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2012-modaplumes/</guid>
+      <description>&lt;!-- Internal page content (disabled in compact-project.html) --&gt;
+&lt;p&gt;&lt;strong&gt;Funding source: European MEMOVOLC Young Researcher travel grant&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Project written to bring together expertises of two postdocs studying volcanic plumes with complementary approaches: &lt;strong&gt;Sébastien Valade&lt;/strong&gt; (volcanologist/geophysicist working at LMV, France), and &lt;strong&gt;Matteo Cerminara&lt;/strong&gt; (physicist working at INGV-Pisa, Italy).&lt;/p&gt;
+&lt;p&gt;Two complementary articles on volcanic were published thanks to the exchange:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;S. Valade, A. J. Harris, and M. Cerminara (2014) “Plume ascent tracker: interactive matlab software for analysis of ascending plumes in image data,” Computers and Geosciences, vol. 66, pp. 132–144, doi: &lt;a href=&#34;http://dx.doi.org/10.1016/j.cageo.2013.12.015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cageo.2013.12.015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;M. Cerminara, T. Esposti Ongaro, S. Valade, and A. Harris, “Volcanic plume vent conditions retrieved from infrared images: a forward and inverse modeling approach,” Journal of Volcanology and Geothermal Research, vol. 300, 2014. doi: &lt;a href=&#34;http://dx.doi.org/10.1016/j.jvolgeores.2014.12.015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.jvolgeores.2014.12.015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

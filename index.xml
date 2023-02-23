@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Classification and formation processes of lava lakes</title>
+      <link>https://example.com/projects/2023-papiit-campion/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2023-papiit-campion/</guid>
+      <description>&lt;p&gt;Funding: DGAPA PAPIIT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sangay volcano (Ecuador): the opening of two new vents,  a drumbeat seismic sequence and a new lava flow in late 2021</title>
       <link>https://example.com/publication/hidalgo-2022/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
@@ -77,7 +86,7 @@
     </item>
     
     <item>
-      <title>Computer Vision for Geosciences: from classical methods to modern approaches using Deep Learning.</title>
+      <title>Computer Vision for Geosciences: from classical methods to modern approaches using Deep Learning</title>
       <link>https://example.com/lectures/cv4gs/</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/lectures/cv4gs/</guid>
@@ -90,6 +99,20 @@
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://example.com/talk/2021-02_ldeo_usa/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Linking space and ground-based observations for better understanding and prediction of eruptive crises</title>
+      <link>https://example.com/projects/2020-papiit/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2020-papiit/</guid>
+      <description>&lt;!-- Internal page content (disabled in compact-project.html) --&gt;
+&lt;p&gt;&lt;strong&gt;Funding source: DGAPA PAPIIT&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- Project written to bring together two techniques still underused despite their very high potential, useful to recover key parameters which can reflect changes inside the volcanic system.
+1) Changes in the crater morphology of active volcanoes can reflect changing internal conditions of the underlying magmatic system. These processes, characterized by alternating construction and destruction inside the crater, can be detected from space using SAR intensity images, and can sometimes be precursors to paroxysmal activity.
+2) Changes in the degassing activity of a volcano can reflect variations in the accumulation/release of pressure in the shallow volcanic system, which often foresee variations in the volcanic activity. These processes can be recorded with arrays of infrasonic sensors deployed nearby the volcano, and quantified/localized using well established algorithms using multichannel semblance.
+
+The unique combination of these two techniques and recovery/analysis of these parameters will improve our ability to understand and forecast eruptions. --&gt;</description>
     </item>
     
     <item>
@@ -388,7 +411,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-947253618&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-319624785&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -398,7 +421,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-947253618&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-319624785&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -679,6 +702,16 @@ Crash --&gt; [*]
     </item>
     
     <item>
+      <title>MOUNTS-AI: artificial intelligence for volcano monitoring</title>
+      <link>https://example.com/projects/2019-mounts-ai/</link>
+      <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2019-mounts-ai/</guid>
+      <description>&lt;!-- Internal page content (disabled in compact-project.html) --&gt;
+&lt;p&gt;&lt;strong&gt;Fundings: GEO-X Seed Funding&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Display Jupyter Notebooks with Academic</title>
       <link>https://example.com/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
@@ -935,31 +968,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Forecasting Effusive Dynamics and Decompression Rates by Magmastatic Model at Open-vent Volcanoes</title>
-      <link>https://example.com/publication/ripepe-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ripepe-2017/</guid>
+      <title>MOUNTS: Monitoring Unrest from Space</title>
+      <link>https://example.com/projects/2017-mounts/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2017-mounts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://example.com/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <title>Forecasting Effusive Dynamics and Decompression Rates by Magmastatic Model at Open-vent Volcanoes</title>
+      <link>https://example.com/publication/ripepe-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/ripepe-2017/</guid>
       <description></description>
     </item>
     
@@ -1073,6 +1093,26 @@ $$&lt;/p&gt;
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://example.com/publication/harris-2013/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>MODAPLUMES: Models and Data for Plumes</title>
+      <link>https://example.com/projects/2012-modaplumes/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2012-modaplumes/</guid>
+      <description>&lt;!-- Internal page content (disabled in compact-project.html) --&gt;
+&lt;p&gt;&lt;strong&gt;Funding source: European MEMOVOLC Young Researcher travel grant&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Project written to bring together expertises of two postdocs studying volcanic plumes with complementary approaches: &lt;strong&gt;Sébastien Valade&lt;/strong&gt; (volcanologist/geophysicist working at LMV, France), and &lt;strong&gt;Matteo Cerminara&lt;/strong&gt; (physicist working at INGV-Pisa, Italy).&lt;/p&gt;
+&lt;p&gt;Two complementary articles on volcanic were published thanks to the exchange:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;S. Valade, A. J. Harris, and M. Cerminara (2014) “Plume ascent tracker: interactive matlab software for analysis of ascending plumes in image data,” Computers and Geosciences, vol. 66, pp. 132–144, doi: &lt;a href=&#34;http://dx.doi.org/10.1016/j.cageo.2013.12.015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.cageo.2013.12.015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;M. Cerminara, T. Esposti Ongaro, S. Valade, and A. Harris, “Volcanic plume vent conditions retrieved from infrared images: a forward and inverse modeling approach,” Journal of Volcanology and Geothermal Research, vol. 300, 2014. doi: &lt;a href=&#34;http://dx.doi.org/10.1016/j.jvolgeores.2014.12.015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;10.1016/j.jvolgeores.2014.12.015&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
