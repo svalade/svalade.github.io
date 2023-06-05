@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Lava dome cycles reveal rise and fall of magma column at Popocatépetl volcano</title>
+      <link>https://example.com/publication/valade-2023/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/valade-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automatic retrieval of volcanic SO2 emission source from TROPOMI products</title>
       <link>https://example.com/publication/markus-2023/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -411,7 +419,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-319624785&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-817629435&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -421,7 +429,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-319624785&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-817629435&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
