@@ -5,12 +5,20 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Sébastien Valade</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu72552e133ade4a041f8b7a65e584ae9e_4965_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu3243243515003609463.png</url>
       <title>Sébastien Valade</title>
       <link>https://example.com/</link>
     </image>
+    
+    <item>
+      <title>Digital Image Processing for Remote Sensing</title>
+      <link>https://example.com/lectures/dip4rs/</link>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/lectures/dip4rs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lava dome cycles reveal rise and fall of magma column at Popocatépetl volcano</title>
@@ -419,7 +427,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-279683154&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-896257413&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -429,7 +437,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-279683154&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-896257413&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -619,16 +627,16 @@ Crash --&gt; [*]
 
 
 
-  
-
-
 
 &lt;table class=&#34;table&#34;&gt;
   
     
     
-    &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
+    &lt;thead&gt;
+      &lt;tr&gt;  &lt;th&gt;customer_id&lt;/th&gt;  &lt;th&gt;score&lt;/th&gt;  &lt;/tr&gt;
+    &lt;/thead&gt;
   
+  &lt;tbody&gt;
   
     &lt;tr&gt;
       
@@ -666,6 +674,7 @@ Crash --&gt; [*]
       
     &lt;/tr&gt;
   
+  &lt;/tbody&gt;
   
     &lt;caption&gt;Table 1: My results&lt;/caption&gt;
   
@@ -1216,14 +1225,6 @@ $$&lt;/p&gt;
       <link>https://example.com/talk/2008-08_esc_iceland/</link>
       <pubDate>Mon, 18 Aug 2008 00:00:00 +0000</pubDate>
       <guid>https://example.com/talk/2008-08_esc_iceland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://example.com/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
       <description></description>
     </item>
     

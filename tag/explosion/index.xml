@@ -5,9 +5,9 @@
     <link>https://example.com/tag/explosion/</link>
       <atom:link href="https://example.com/tag/explosion/index.xml" rel="self" type="application/rss+xml" />
     <description>Explosion</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu72552e133ade4a041f8b7a65e584ae9e_4965_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu3243243515003609463.png</url>
       <title>Explosion</title>
       <link>https://example.com/tag/explosion/</link>
     </image>

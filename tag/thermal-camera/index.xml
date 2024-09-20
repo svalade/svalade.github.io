@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thermal camera | Sébastien Valade</title>
+    <title>Thermal Camera | Sébastien Valade</title>
     <link>https://example.com/tag/thermal-camera/</link>
       <atom:link href="https://example.com/tag/thermal-camera/index.xml" rel="self" type="application/rss+xml" />
-    <description>Thermal camera</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <description>Thermal Camera</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu72552e133ade4a041f8b7a65e584ae9e_4965_512x512_fill_lanczos_center_3.png</url>
-      <title>Thermal camera</title>
+      <url>https://example.com/media/icon_hu3243243515003609463.png</url>
+      <title>Thermal Camera</title>
       <link>https://example.com/tag/thermal-camera/</link>
     </image>
     
