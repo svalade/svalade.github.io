@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Infrasonic surveillance system for explosive eruptions at Popocatépetl</title>
+      <link>https://example.com/projects/2024-sectei/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2024-sectei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Digital Image Processing for Remote Sensing</title>
       <link>https://example.com/lectures/dip4rs/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
@@ -427,7 +435,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-896257413&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-915432768&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -437,7 +445,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-896257413&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-915432768&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -5,12 +5,20 @@
     <link>https://example.com/projects/</link>
       <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu3243243515003609463.png</url>
       <title>Projects</title>
       <link>https://example.com/projects/</link>
     </image>
+    
+    <item>
+      <title>Infrasonic surveillance system for explosive eruptions at Popocatépetl</title>
+      <link>https://example.com/projects/2024-sectei/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2024-sectei/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Classification and formation processes of lava lakes</title>

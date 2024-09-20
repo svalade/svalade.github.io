@@ -5,12 +5,20 @@
     <link>https://example.com/tag/deep-learning/</link>
       <atom:link href="https://example.com/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu3243243515003609463.png</url>
       <title>Deep Learning</title>
       <link>https://example.com/tag/deep-learning/</link>
     </image>
+    
+    <item>
+      <title>Infrasonic surveillance system for explosive eruptions at Popocatépetl</title>
+      <link>https://example.com/projects/2024-sectei/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2024-sectei/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MOUNTS: Monitoring Unrest from Space</title>
