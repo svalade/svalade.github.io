@@ -5,12 +5,20 @@
     <link>https://example.com/projects/</link>
       <atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu3243243515003609463.png</url>
       <title>Projects</title>
       <link>https://example.com/projects/</link>
     </image>
+    
+    <item>
+      <title>OMEGA: Observatorio Mundial de Erupciones Guiado por Inteligencia Artificial</title>
+      <link>https://example.com/projects/2025-papiit/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/projects/2025-papiit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Infrasonic surveillance system for explosive eruptions at Popocatépetl</title>
@@ -31,9 +39,9 @@
     
     <item>
       <title>Linking space and ground-based observations for better understanding and prediction of eruptive crises</title>
-      <link>https://example.com/projects/2020-papiit/</link>
+      <link>https://example.com/projects/2021-papiit/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/2020-papiit/</guid>
+      <guid>https://example.com/projects/2021-papiit/</guid>
       <description>&lt;!-- Internal page content (disabled in compact-project.html) --&gt;
 &lt;p&gt;&lt;strong&gt;Funding source: DGAPA PAPIIT&lt;/strong&gt;&lt;/p&gt;
 &lt;!-- Project written to bring together two techniques still underused despite their very high potential, useful to recover key parameters which can reflect changes inside the volcanic system.
