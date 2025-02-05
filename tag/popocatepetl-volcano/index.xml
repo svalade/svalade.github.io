@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Popocatepetl Volcano | Sébastien Valade</title>
+    <link>https://example.com/tag/popocatepetl-volcano/</link>
+      <atom:link href="https://example.com/tag/popocatepetl-volcano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Popocatepetl Volcano</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_86a56db8bd3aeace.png</url>
+      <title>Popocatepetl Volcano</title>
+      <link>https://example.com/tag/popocatepetl-volcano/</link>
+    </image>
+    
+    <item>
+      <title>Automated Seismo-Volcanic Event Detection Applied to Popocatépetl Using Machine Learning</title>
+      <link>https://example.com/publication/bernal-manzanilla-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bernal-manzanilla-2025/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,30 @@
     <link>https://example.com/publication/</link>
       <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Peer-reviewed publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3243243515003609463.png</url>
+      <url>https://example.com/media/icon_hu_86a56db8bd3aeace.png</url>
       <title>Peer-reviewed publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Automated Seismo-Volcanic Event Detection Applied to Popocatépetl Using Machine Learning</title>
+      <link>https://example.com/publication/bernal-manzanilla-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bernal-manzanilla-2025/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection of Volcanic Ash Using Goes-16 Satellite Imagery: Case Study of Popocatépetl Volcano, Mexico</title>
+      <link>https://example.com/publication/juarez-2024/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/juarez-2024/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Lava dome cycles reveal rise and fall of magma column at Popocatépetl volcano</title>

@@ -7,7 +7,7 @@
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3243243515003609463.png</url>
+      <url>https://example.com/media/icon_hu_86a56db8bd3aeace.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
@@ -196,7 +196,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-624159873&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-943652718&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +206,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-624159873&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-943652718&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

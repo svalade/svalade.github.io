@@ -7,10 +7,19 @@
     <description>Sébastien Valade</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3243243515003609463.png</url>
+      <url>https://example.com/media/icon_hu_86a56db8bd3aeace.png</url>
       <title>Sébastien Valade</title>
       <link>https://example.com/</link>
     </image>
+    
+    <item>
+      <title>Automated Seismo-Volcanic Event Detection Applied to Popocatépetl Using Machine Learning</title>
+      <link>https://example.com/publication/bernal-manzanilla-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bernal-manzanilla-2025/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OMEGA: Observatorio Mundial de Erupciones Guiado por Inteligencia Artificial</title>
@@ -18,6 +27,23 @@
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://example.com/projects/2025-papiit/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>El volcán desde el espacio</title>
+      <link>https://example.com/talk/2024-12-03_unam/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2024-12-03_unam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Volcanic Ash Using Goes-16 Satellite Imagery: Case Study of Popocatépetl Volcano, Mexico</title>
+      <link>https://example.com/publication/juarez-2024/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/juarez-2024/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -39,7 +65,7 @@
     <item>
       <title>Volcano monitoring assisted by Deep Learning: experience from the satellite monitoring system MOUNTS</title>
       <link>https://example.com/talk/2024-03-20_leeds/</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Mar 2024 13:00:00 +0000</pubDate>
       <guid>https://example.com/talk/2024-03-20_leeds/</guid>
       <description></description>
     </item>
@@ -47,7 +73,7 @@
     <item>
       <title>MOUNTS Monitoring Unrest from Space</title>
       <link>https://example.com/talk/2024-02-29_gdacs/</link>
-      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Feb 2024 16:00:00 +0000</pubDate>
       <guid>https://example.com/talk/2024-02-29_gdacs/</guid>
       <description></description>
     </item>
@@ -475,7 +501,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-624159873&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-943652718&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -485,7 +511,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-624159873&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-943652718&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -942,7 +968,7 @@ $$&lt;/p&gt;
 &lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
 &lt;p&gt;Customize the slide style and background&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;ni&#34;&gt;#0000FF&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;

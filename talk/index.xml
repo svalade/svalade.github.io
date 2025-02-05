@@ -7,10 +7,18 @@
     <description>Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu3243243515003609463.png</url>
+      <url>https://example.com/media/icon_hu_86a56db8bd3aeace.png</url>
       <title>Talks</title>
       <link>https://example.com/talk/</link>
     </image>
+    
+    <item>
+      <title>El volcán desde el espacio</title>
+      <link>https://example.com/talk/2024-12-03_unam/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2024-12-03_unam/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mecanismos de construcción y destrucción de domos de lava en el volcán Popocatépetl</title>
@@ -23,7 +31,7 @@
     <item>
       <title>Volcano monitoring assisted by Deep Learning: experience from the satellite monitoring system MOUNTS</title>
       <link>https://example.com/talk/2024-03-20_leeds/</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Mar 2024 13:00:00 +0000</pubDate>
       <guid>https://example.com/talk/2024-03-20_leeds/</guid>
       <description></description>
     </item>
@@ -31,7 +39,7 @@
     <item>
       <title>MOUNTS Monitoring Unrest from Space</title>
       <link>https://example.com/talk/2024-02-29_gdacs/</link>
-      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Feb 2024 16:00:00 +0000</pubDate>
       <guid>https://example.com/talk/2024-02-29_gdacs/</guid>
       <description></description>
     </item>
