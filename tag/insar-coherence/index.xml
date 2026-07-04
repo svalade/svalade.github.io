@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>InSAR Coherence | Sébastien Valade</title>
+    <link>https://example.com/tag/insar-coherence/</link>
+      <atom:link href="https://example.com/tag/insar-coherence/index.xml" rel="self" type="application/rss+xml" />
+    <description>InSAR Coherence</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_86573d74850e920.png</url>
+      <title>InSAR Coherence</title>
+      <link>https://example.com/tag/insar-coherence/</link>
+    </image>
+    
+    <item>
+      <title>2023 Activity of Nyamulagira Volcano Monitored by SAR Interferometric Coherence</title>
+      <link>https://example.com/publication/polcari-2025/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/polcari-2025/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CO Flux | Sébastien Valade</title>
+    <link>https://example.com/tag/co-flux/</link>
+      <atom:link href="https://example.com/tag/co-flux/index.xml" rel="self" type="application/rss+xml" />
+    <description>CO Flux</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_86573d74850e920.png</url>
+      <title>CO Flux</title>
+      <link>https://example.com/tag/co-flux/</link>
+    </image>
+    
+    <item>
+      <title>From Quiescence to Unrest? Increase in Diffuse Gas Emissions from El Chichón Volcano Lake (2021--2025)</title>
+      <link>https://example.com/publication/jacomepaz-2026/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jacomepaz-2026/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

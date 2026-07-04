@@ -5,12 +5,21 @@
     <link>https://example.com/tag/lava-lake/</link>
       <atom:link href="https://example.com/tag/lava-lake/index.xml" rel="self" type="application/rss+xml" />
     <description>Lava Lake</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_86a56db8bd3aeace.png</url>
+      <url>https://example.com/media/icon_hu_86573d74850e920.png</url>
       <title>Lava Lake</title>
       <link>https://example.com/tag/lava-lake/</link>
     </image>
+    
+    <item>
+      <title>Transition from Spot to Long-Lived Eruptive Activity in Continental Rifting Tracked by Monitoring Soil Degassing</title>
+      <link>https://example.com/publication/munguikomunyamahoro-2026/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/munguikomunyamahoro-2026/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Dynamics of Mount Nyiragongo lava lake inferred from thermal imaging and infrasound array</title>

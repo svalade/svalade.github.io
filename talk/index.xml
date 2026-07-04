@@ -5,9 +5,9 @@
     <link>https://example.com/talk/</link>
       <atom:link href="https://example.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_86a56db8bd3aeace.png</url>
+      <url>https://example.com/media/icon_hu_86573d74850e920.png</url>
       <title>Talks</title>
       <link>https://example.com/talk/</link>
     </image>

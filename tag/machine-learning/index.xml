@@ -5,12 +5,21 @@
     <link>https://example.com/tag/machine-learning/</link>
       <atom:link href="https://example.com/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_86a56db8bd3aeace.png</url>
+      <url>https://example.com/media/icon_hu_86573d74850e920.png</url>
       <title>Machine Learning</title>
       <link>https://example.com/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>VIGIA-PlumeNet and VIGIA-PlumeData: Open-source AI Segmenting Model and Database For Volcanic Plumes and Emissions from Optical Cameras</title>
+      <link>https://example.com/publication/giffard-roisin-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/giffard-roisin-2026/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Automated Seismo-Volcanic Event Detection Applied to Popocatépetl Using Machine Learning</title>

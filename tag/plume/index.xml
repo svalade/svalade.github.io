@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plume | Sébastien Valade</title>
+    <link>https://example.com/tag/plume/</link>
+      <atom:link href="https://example.com/tag/plume/index.xml" rel="self" type="application/rss+xml" />
+    <description>Plume</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_86573d74850e920.png</url>
+      <title>Plume</title>
+      <link>https://example.com/tag/plume/</link>
+    </image>
+    
+    <item>
+      <title>VIGIA-PlumeNet and VIGIA-PlumeData: Open-source AI Segmenting Model and Database For Volcanic Plumes and Emissions from Optical Cameras</title>
+      <link>https://example.com/publication/giffard-roisin-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/giffard-roisin-2026/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

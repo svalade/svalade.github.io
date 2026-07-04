@@ -5,12 +5,21 @@
     <link>https://example.com/tag/magma-convection/</link>
       <atom:link href="https://example.com/tag/magma-convection/index.xml" rel="self" type="application/rss+xml" />
     <description>Magma Convection</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_86a56db8bd3aeace.png</url>
+      <url>https://example.com/media/icon_hu_86573d74850e920.png</url>
       <title>Magma Convection</title>
       <link>https://example.com/tag/magma-convection/</link>
     </image>
+    
+    <item>
+      <title>Evolving Open-Vent Activity at Popocatépetl Volcano (2019--2024): Satellite Insights into Conduit Permeability, the 2023 Paroxysmal Phase, and the Transition in Dome-Forming Behavior</title>
+      <link>https://example.com/publication/massimetti-2026/</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/massimetti-2026/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Dynamics of Mount Nyiragongo lava lake inferred from thermal imaging and infrasound array</title>
