@@ -42,6 +42,18 @@
     <lastmod>2026-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/talk/2026-06-12_isterre/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/</loc>
+    <lastmod>2026-06-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/2026-04-27_incois/</loc>
+    <lastmod>2026-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/conduit-permeability/</loc>
     <lastmod>2026-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -186,6 +198,14 @@
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/talk/2025-11-11_igepn_ecuador/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/talk/2025-10-26_ugm_puertovallarta/</loc>
+    <lastmod>2025-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication/bernal-manzanilla-2025/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -215,10 +235,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/talk/2024-12-03_unam/</loc>
-    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/talk/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

@@ -5,12 +5,44 @@
     <link>https://example.com/talk/</link>
       <atom:link href="https://example.com/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu_86573d74850e920.png</url>
       <title>Talks</title>
       <link>https://example.com/talk/</link>
     </image>
+    
+    <item>
+      <title>Deep learning within the remote sensing volcanic monitoring platform MOUNTS</title>
+      <link>https://example.com/talk/2026-06-12_isterre/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2026-06-12_isterre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOUNTS observatory: potential for supporting a volcano monitoring framework for the Indian Ocean</title>
+      <link>https://example.com/talk/2026-04-27_incois/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2026-04-27_incois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoreo volcánico por satélites con el sistema MOUNTS: estado actual &amp; desarrollos en curso</title>
+      <link>https://example.com/talk/2025-11-11_igepn_ecuador/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2025-11-11_igepn_ecuador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sistema de monitoreo de la actividad explosiva volcánica del Popocatépetl mediante infrasonidos</title>
+      <link>https://example.com/talk/2025-10-26_ugm_puertovallarta/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2025-10-26_ugm_puertovallarta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>El volcán desde el espacio</title>

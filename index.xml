@@ -22,6 +22,22 @@
     </item>
     
     <item>
+      <title>Deep learning within the remote sensing volcanic monitoring platform MOUNTS</title>
+      <link>https://example.com/talk/2026-06-12_isterre/</link>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2026-06-12_isterre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOUNTS observatory: potential for supporting a volcano monitoring framework for the Indian Ocean</title>
+      <link>https://example.com/talk/2026-04-27_incois/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2026-04-27_incois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolving Open-Vent Activity at Popocatépetl Volcano (2019--2024): Satellite Insights into Conduit Permeability, the 2023 Paroxysmal Phase, and the Transition in Dome-Forming Behavior</title>
       <link>https://example.com/publication/massimetti-2026/</link>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
@@ -82,6 +98,22 @@
       <guid>https://example.com/publication/polcari-2025/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Monitoreo volcánico por satélites con el sistema MOUNTS: estado actual &amp; desarrollos en curso</title>
+      <link>https://example.com/talk/2025-11-11_igepn_ecuador/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2025-11-11_igepn_ecuador/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sistema de monitoreo de la actividad explosiva volcánica del Popocatépetl mediante infrasonidos</title>
+      <link>https://example.com/talk/2025-10-26_ugm_puertovallarta/</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/2025-10-26_ugm_puertovallarta/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -573,7 +605,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-781392465&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-213489657&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -583,7 +615,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-781392465&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-213489657&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
